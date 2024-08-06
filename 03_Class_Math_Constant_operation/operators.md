@@ -63,7 +63,7 @@ boolean d = false;
 | --- | --- | --- |
 | = | Toán tử đơn giản, gán giá trị toán hạng bên phải cho toán hạng trái | |
 | += | Thêm giá trị toán hạng phải tới toán hạng trái và gán giá trị đó cho toán hạng trái | c += a => c = c + a |
-| -= | Trừ đi giá trị toán hạng phải từ toán hạng trái và gán giá trị này cho toán hạng trái | c -= a => a = c - a |
+| -= | Trừ đi giá trị toán hạng phải từ toán hạng trái và gán giá trị này cho toán hạng trái | c -= a => c = c - a |
 | *= | Nhân giá trị toán hạng phải với toán hạng trái và gán giá trị này cho toán hạng trái | c *= a => c = c * a |
 | /= | Chia toán hạng trái cho toán hạng phải và gán giá trị này cho toán hạng phải | c /= a => c = c / a;
 | %= | Lấy phần dư của phép chia toán hạng trái cho toán hạng phải và gán cho toán hạng trái | c %= a => c = c % a |
